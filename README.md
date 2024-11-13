@@ -5,9 +5,13 @@ Case de Análise de Desempenho de Pacotes de Viagens
 🔍 O que o Dashboard abrangeu:
 
 ☑ Lucro para cada pacote;
+
 ☑ Margem de lucro para cada pacote;
+
 ☑ Os pacotes mais e menos lucrativos;
+
 ☑ Os pacotes mais e menos vendidos;
+
 ☑ Correlação entre a taxa de ocupação dos hotéis e a satisfação do cliente.
 
 📊 Análise do Relatório: 
